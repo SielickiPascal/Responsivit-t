@@ -1,1 +1,1 @@
-# Responsivit-t
+# Responsivitaet
